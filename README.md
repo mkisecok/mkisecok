@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Express.js and MongoDB**
+- 🔭 I’m currently working on **mongoose and MongoDB**
 
 - 🌱 I’m currently learning **Backend Node.js**
 
