@@ -1,7 +1,7 @@
 <div align='center' ><img width="250px" height="200px" margin='0 auto' src="https://i.imgur.com/RTvdfJA.png"/></div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mahmut</h1>
-<h3 align="center">I'm a Frontend Developer at Berlin</h3>
+<h3 align="center">I'm a Full Stack Developer at Berlin</h3>
 
 
 ## 🙋‍♂️ About Me
