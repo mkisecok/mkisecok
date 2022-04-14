@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **mongoose and MongoDB**
 
-- 🌱 I’m currently learning **Backend Node.js**
+- 🌱 I’m currently learning **Java **
 
 - 👯 I’m looking to collaborate on **PatikaDev**
 
